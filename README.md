@@ -11,7 +11,7 @@ This repository includes data and analysis scripts to accompany:
 -----
 
 ### Description:
-This work investigates components of ecosystem service flow from the capacity of ecosysytem to produce services to the ultimate benefits to society. We mapped ecological capacity of coral reefs in Hawaii for multiple services by translating ecological attributes (e.g., fish biomass) into ecosystem service capacity using ecosystem production functions. We then compared the spatial footprint of that capacity with human pressures and human demand to elucidate the intersection points for management, and to provide a framework for spatial prioritization of management actions.
+This work investigates components of ecosystem service flow from the capacity of ecosystem to produce services to the ultimate benefits to society. We mapped ecological capacity of coral reefs in Hawaii for multiple services by translating ecological attributes (e.g., fish biomass) into ecosystem service capacity using ecosystem production functions. We then compared the spatial footprint of that capacity with human pressures and human demand to elucidate the intersection points for management, and to provide a framework for spatial prioritization of management actions.
 
 ### Contents:
 #### Scripts:
