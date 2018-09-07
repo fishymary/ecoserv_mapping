@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/147867464.svg)](https://zenodo.org/badge/latestdoi/147867464)
+
 This repository includes data and analysis scripts to accompany:
 
 # Mapping supply and demand of ecosystem services for effective spatial prioritization
