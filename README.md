@@ -5,7 +5,7 @@ This repository includes data and analysis scripts to accompany:
 # Mapping supply and demand of ecosystem services for effective spatial prioritization
 
 ### Authors: Mary K Donovan, Kirsten LL Oleson, Joey Lecky, Jade MS Delevaux, Alan M Friedlander, Matthew Poti, Kostantinos A Stamoulis, Susan Yee
-### Journal: Nature Sustainability (submitted)
+### Journal: Journal of Applied Ecology (submitted)
 ### Link: tbd
 
 -----
